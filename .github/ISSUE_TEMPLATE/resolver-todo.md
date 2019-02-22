@@ -1,7 +1,7 @@
 ---
 name: Resolver TODO
 about: Issues para resolver TODOs em arquivos do manual.
-title: Resolver TODO: {Qual?}
+title: 'Resolver TODO: {Qual?}'
 labels: fix:todo
 assignees: ''
 

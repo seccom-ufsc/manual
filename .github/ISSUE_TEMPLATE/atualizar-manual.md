@@ -1,7 +1,7 @@
 ---
 name: Atualizar Manual
 about: Issues para quando há alguma informação desatualizada no manual.
-title: Atualizar Manual: {Sobre o que?}
+title: 'Atualizar Manual: {Sobre o que?}'
 labels: fix:wrong-info
 assignees: ''
 
