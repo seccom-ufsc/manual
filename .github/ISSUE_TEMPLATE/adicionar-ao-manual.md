@@ -7,14 +7,12 @@ assignees: ''
 
 ---
 
-Ação
-----
+## Tipo de adição:
 
 - [ ] Criar arquivo no manual.
 - [ ] Adicionar seção/subseção a algum arquivo existente.
 
-Conteúdo
---------
+## Conteúdo
 
 _Descrição ou checklist:_
 
